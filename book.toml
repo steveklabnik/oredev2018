@@ -1,0 +1,5 @@
+[book]
+authors = ["Steve Klabnik"]
+multilingual = false
+src = "src"
+title = "Compiler Errors in `rustc`: a UX Perspective"
