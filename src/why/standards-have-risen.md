@@ -10,8 +10,8 @@
 > here and try to do better?**
 > 
 > Ease of use is a major priority in Elm, so I recently took a couple weeks to
-> really focus on this. I learned that you can make a shockingly huge
-> difference just by thinking about the user experience. I am not ready to
+> really focus on this. **I learned that you can make a shockingly huge
+> difference just by thinking about the user experience.** I am not ready to
 > claim that we totally solved things and have the best error messages ever,
 > but many folks are very excited about our progress so far.
 

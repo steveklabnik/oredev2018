@@ -1,6 +1,6 @@
 # The rustc_errors crate
 
-The `rustc_errors` rustc_errors crate defines most of the utilities used for
+The `rustc_errors` crate defines most of the utilities used for
 reporting errors.
 
  Two major APIs:

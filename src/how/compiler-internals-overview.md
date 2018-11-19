@@ -10,3 +10,9 @@ To understand these APIs, you'll need to understand how the compiler works.
 * binary output
 
 At each step, the language gets *simpler*. ("lowering")
+
+```rust
+pub fn plus_one(x: i32) -> i32 {
+    x + 1
+}
+```
