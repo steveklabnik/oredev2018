@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "collaborators": [
+    "Steve Klabnik <steve@steveklabnik.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "backend_bg.wasm",
+    "backend.js",
+    "backend.d.ts"
+  ],
+  "module": "backend.js",
+  "types": "backend.d.ts",
+  "sideEffects": "false"
+}
